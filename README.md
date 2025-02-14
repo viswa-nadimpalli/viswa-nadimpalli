@@ -5,7 +5,7 @@
  - 🛕 Data Engineer Intern at HSMN > Sep 2022 - May 2024
 
 ## Languages & Technologies
-[![Languages](https://skillicons.dev/icons?i=py,java,go,graphql,ts,js,sql,cpp,html,css,swift,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,go,graphql,ts,js,cpp,html,css,swift,r)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=spring,nodejs,flask,django,nextjs,react)](https://skillicons.dev)
 
