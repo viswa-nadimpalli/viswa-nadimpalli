@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Viswa.
-
 ## Work Experience
  - 🏦 Software Engineer at Thrivent > Sep 2024 - Present
  - 🏦 Software Engineer Intern at Thrivent > May 2024 - Aug 2024
